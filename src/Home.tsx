@@ -658,12 +658,14 @@ const Home = (props: HomeProps) => {
                     </DesContainer>
                     <DesContainer>
                         <Des elevation={2}>
-                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>To Be Customized</GoldTitle></LogoAligner>
-                            <p>Your description goes here.</p>
+                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>About this NFT Collection</GoldTitle></LogoAligner>
+                            <p>10 unique cartoon characters</p>
+                            <p>Each character represents a member of the same family</p>
                         </Des>
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>To Be Customized</GoldTitle></LogoAligner>
-                            <p>Your description goes here.</p>
+                            <p>Mid 2022: Announcement of new Partnerships</p>
+                            <p>End 2022: Enabling of Play-to-Ea</p>
                         </Des>
                     </DesContainer>
                 </MintContainer>
