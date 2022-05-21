@@ -552,7 +552,7 @@ const Home = (props: HomeProps) => {
                     <Logo><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer"><img alt=""
                                                                                                           src="logo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer">Menu 1</a>
+                        <li><a href="http://twitter.com/prashantikv" target="_blank" rel="noopener noreferrer">Twitter</a>
                         </li>
                         <li><a href="http://localhost:3000/" target="_blank"
                                rel="noopener noreferrer">Menu 2</a></li>
@@ -660,12 +660,12 @@ const Home = (props: HomeProps) => {
                         <Des elevation={2}>
                             <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>About this NFT Collection</GoldTitle></LogoAligner>
                             <p>10 unique cartoon characters</p>
-                            <p>Each character represents a member of the same family</p>
+                            <p>Each character represents a member of the same family- cham</p>
                         </Des>
                         <Des elevation={2}>
-                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>To Be Customized</GoldTitle></LogoAligner>
-                            <p>Mid 2022: Announcement of new Partnerships</p>
-                            <p>End 2022: Enabling of Play-to-Ea</p>
+                            <LogoAligner><img src="logo.png" alt=""></img><GoldTitle>Content To Be Customized - Prashanti</GoldTitle></LogoAligner>
+                            <p>Prashanti</p>
+                            <p>Announcement: Enabling of Play-to-Earn functionalities</p>
                         </Des>
                     </DesContainer>
                 </MintContainer>
